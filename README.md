@@ -1,7 +1,7 @@
 # renault-radio-codes
 ## The full renault car radio codes list 🏴‍☠️
 
-TLDR: https://github.com/tcarecolin/renault-radio-codes/blob/main/codes.md
+TLDR: https://raw.githubusercontent.com/tcarecolin/renault-radio-codes/main/codes.md
 
 ### Code entering procedure:
 
@@ -13,7 +13,7 @@ if everything worked your radio should be displaying a random FM frequency and p
 
 
 
-### Getting your code:
+### Get your pre-code:
 
 
 To get your code you need to know youre pre-code, or 4 last characters of serial number
@@ -29,7 +29,7 @@ on several model, you can display the pre-code by maintaining buttons [1] and [6
 **method 2:**
 
 
-If you unmount the radio, the serial number is printed on a white label on the top (see pictuire for example)
+If you unmount the radio, the serial number is printed on a white label on the top (see picture for example)
 your pre-code is composed of a leter folowed by 3 digits, its the 4 last characters of the serial number, ex: A000
 ![sticker](https://github.com/tcarecolin/renault-radio-codes/assets/25033031/2d723474-dce3-41d9-b2a5-62098c323a3d)
 
